@@ -1,0 +1,19 @@
+{
+  "name": "delta-accounting-server",
+  "version": "0.0.1",
+  "description": "Manage Hosting Accounts",
+  "main": "routes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "hosting",
+    "delta-zet"
+  ],
+  "author": "Drakmail",
+  "license": "GPLv3",
+  "dependencies": {
+    "actionHero": "~7.3.1"
+  }
+}
