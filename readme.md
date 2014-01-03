@@ -2,6 +2,8 @@
 
 ![screenshot](https://raw.github.com/drakmail/hosting-server-api/master/docs/screenshot.png)
 
+*// Screenshot of web status page*
+
 ## What is it?
 
 It is a universal RESTful API server for a server management. I'm hope it will:
