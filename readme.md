@@ -27,7 +27,7 @@ It is based on ActionHero (https://github.com/evantahler/actionHero) multi-trans
 
 At this moment I'm couldn't provide full documentation, but it very self explaining:
 
-```
+```bash
 $ git clone git@github.com:drakmail/hosting-server-api.git
 $ cd hosting-server-api
 $ npm install
@@ -45,7 +45,7 @@ $ # open your browser at 127.0.0.1:8080
 
 ## LICENSE
 
-GPLv3
+GNU GPLv3
 
 ## Authors
 
