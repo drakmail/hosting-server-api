@@ -6,7 +6,7 @@
 
 ## What is it?
 
-It is a universal RESTful API server for a server management. I'm hope it will:
+It is a universal RESTful API server for a server management. I'm hope it will be:
 
 * Manage:
   * Hosting user accounts
