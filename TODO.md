@@ -4,13 +4,13 @@
 
 [ ] Store a users in database
 
-[ ] Add a sites limit for users
+[-] Add a sites limit for users
 
 [ ] CLI client
 
 # API TODO
 
-[ ] Create new user sites (django/rails for now)
+[-] Create new user sites (django/rails for now)
 
 [ ] Deactivate existing users sites
 
